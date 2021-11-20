@@ -1,0 +1,7 @@
+Whey 700 114
+Ovos 130 120
+Frango 310 20
+Albumina 785 63
+Tilapia  176 65
+Salsicha 194 30
+patinho_Moido 210 30
